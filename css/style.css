@@ -1,0 +1,10 @@
+  #my-header {
+    background-color: rgb(225, 0, 210);
+    color: hsl(252, 71%, 48%);
+    padding: 40px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+  }
+  body {
+   background-color: darkturquoise;
+  }
